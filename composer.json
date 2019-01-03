@@ -13,8 +13,7 @@
   "license": "GNU Affero General Public License",
   "authors": [
     {
-      "name": "Jakub Pas",
-      "email": "jakubpas@gmail.com"
+      "name": "Jakub Pas"
     }
   ],
   "require": {
